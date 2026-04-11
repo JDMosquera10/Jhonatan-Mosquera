@@ -34,7 +34,6 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <br />
 <sub>APIs y servicios con <strong>.NET</strong>, <strong>NestJS</strong> y <strong>Node.js</strong></sub>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:eef2ff,100:c7d2fe&height=42&section=footer" alt="" />
 </p>
 
 </td>
@@ -47,7 +46,6 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <br />
 <sub>Interfaces con <strong>Angular</strong>, <strong>Next.js</strong> y <strong>React</strong></sub>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ecfdf5,100:a7f3d0&height=42&section=footer" alt="" />
 </p>
 
 </td>
@@ -62,7 +60,6 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <br />
 <sub><strong>PostgreSQL</strong>, <strong>MySQL</strong> y <strong>MongoDB</strong></sub>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8fafc,100:e2e8f0&height=42&section=footer" alt="" />
 </p>
 
 </td>
@@ -75,7 +72,6 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <br />
 <sub>Contenedores y despliegue con <strong>Docker</strong></sub>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f0f9ff,100:e0f2fe&height=42&section=footer" alt="" />
 </p>
 
 </td>
@@ -90,7 +86,6 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <br />
 <sub><strong>ECS</strong>, <strong>S3</strong> y bases de datos gestionadas</sub>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fffbeb,100:fde68a&height=42&section=footer" alt="" />
 </p>
 
 </td>
