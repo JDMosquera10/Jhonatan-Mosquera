@@ -21,29 +21,59 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 
 ## Stack técnico
 
-| Área | Tecnologías |
-|------|-------------|
-| **Backend** | .NET, NestJS, Node.js |
-| **Frontend** | Angular, Next.js, React |
-| **Bases de datos** | PostgreSQL, MySQL, MongoDB |
-| **DevOps / Infraestructura** | Docker |
-| **Nube (AWS)** | ECS, S3, servicios de bases de datos |
+<table width="100%">
+<tr valign="top">
+<td width="33%" align="center">
 
-### Badges
+<blockquote>
+<h3 align="center">Backend</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs&perline=3&theme=light" alt="Tecnologías backend: .NET, NestJS, Node.js" /></p>
+<p align="center"><sub>APIs y servicios con <strong>.NET</strong>, <strong>NestJS</strong> y <strong>Node.js</strong></sub></p>
+</blockquote>
 
-<p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+</td>
+<td width="34%" align="center">
+
+<blockquote>
+<h3 align="center">Frontend</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=angular,nextjs,react&perline=3&theme=light" alt="Tecnologías frontend: Angular, Next.js, React" /></p>
+<p align="center"><sub>Interfaces con <strong>Angular</strong>, <strong>Next.js</strong> y <strong>React</strong></sub></p>
+</blockquote>
+
+</td>
+<td width="33%" align="center">
+
+<blockquote>
+<h3 align="center">Bases de datos</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3&theme=light" alt="Bases de datos: PostgreSQL, MySQL, MongoDB" /></p>
+<p align="center"><sub><strong>PostgreSQL</strong>, <strong>MySQL</strong> y <strong>MongoDB</strong></sub></p>
+</blockquote>
+
+</td>
+</tr>
+<tr valign="top">
+<td width="50%" align="center">
+
+<blockquote>
+<h3 align="center">DevOps</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker&perline=4&theme=light" alt="Docker" /></p>
+<p align="center"><sub>Contenedores y despliegue con <strong>Docker</strong></sub></p>
+</blockquote>
+
+</td>
+<td width="50%" align="center" colspan="2">
+
+<blockquote>
+<h3 align="center">Nube · AWS</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws&perline=4&theme=light" alt="Amazon Web Services" /></p>
+<p align="center"><sub><strong>ECS</strong> · <strong>S3</strong> · bases de datos gestionadas</sub></p>
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Fuente de iconos: <a href="https://skillicons.dev">Skill Icons</a>.</sub></p>
 
 ---
 
