@@ -15,7 +15,7 @@ Desarrollador full stack con experiencia en el desarrollo y mantenimiento de pro
 
 ## Perfil profesional
 
-Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servicios y APIs, integrados con interfaces en **Angular**, **Next.js** y **React**. Experiencia trabajando con **PostgreSQL**, **MySQL** y **MongoDB**, empaquetado y despliegue con **Docker**, y uso de servicios en **AWS** (por ejemplo **ECS**, almacenamiento **S3** y bases de datos gestionadas). Orientado a código mantenible, buenas prácticas y colaboración en equipo.
+Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servicios y APIs, integrados con interfaces en **Angular**, **Next.js** y **React**. Experiencia trabajando con **PostgreSQL**, **MySQL** y **MongoDB**, empaquetado y despliegue con **Docker**, mensajería asíncrona con **RabbitMQ**, y uso de servicios en **AWS** (por ejemplo **ECS**, almacenamiento **S3** y bases de datos gestionadas). Orientado a código mantenible, buenas prácticas y colaboración en equipo.
 
 ---
 
@@ -68,9 +68,9 @@ Desarrollador con sólida base en **.NET**, **NestJS** y **Node.js** para servic
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f0f9ff,100:e0f2fe&height=58&section=header&text=DevOps&fontSize=24&fontColor=0c4a6e&fontAlign=50&fontAlignY=52" alt="DevOps" />
 <br />
-<img src="https://skillicons.dev/icons?i=docker&perline=4&theme=dark" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker,rabbitmq&perline=4&theme=dark" alt="Docker y RabbitMQ" />
 <br />
-<sub>Contenedores y despliegue con <strong>Docker</strong></sub>
+<sub>Contenedores con <strong>Docker</strong> · colas y mensajería con <strong>RabbitMQ</strong></sub>
 <br />
 </p>
 
